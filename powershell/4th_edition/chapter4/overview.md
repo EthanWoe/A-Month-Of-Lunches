@@ -58,7 +58,7 @@
 
 ---
 
-### 7. Make a new folder (aka directory) using the New-Item cmdlet with the name of MyFolder1. Then do it again and call it MyFolder2. Use Help if you’re not familiar with New-Item.
+### 7. Make a new folder (aka directory) using the New-Item cmdlet with the name of MyFolder1. Then do it again and call it MyFolder2, put this in the first folder. Use Help if you’re not familiar with New-Item.
 
 **Answer:**  
 * I typed in ```help new-item``` For step one after reading i created a foolder using ```New-item -ItemType Directory -Name Myfolder1```
