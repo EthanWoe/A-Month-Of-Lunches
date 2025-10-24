@@ -1,5 +1,5 @@
 # General Overview
-* This chapter was pretty good I thought. I find it hard to read and i see myself going back to it to reference during the lab as its hard for me to learn by just reading it. But this Lab and the chapter are good skills to know as it is mostly about learning how to search and find awnseres for yourself.
+* This chapter was pretty good I thought. I find it hard to read and i see myself going back to it to reference during the lab as its hard for me to learn by just reading it. But this Lab and the chapter are good skills to know as it is mostly about learning how to search and find awnsers. for yourself.
 # Lab 3
 
 ### 1. Run Update-Help, and ensure that it completes without errors so that you have a copy of the help on your local computer. You need an internet connection.
@@ -117,7 +117,7 @@ This then gave me a ```Help CovertTo-HTML``` and the description of it matched t
 
 ### 14. Using both an alias and abbreviated parameter names, what is the shortest command line you could type to retrieve a list of commands with the word process in the name?
 **Answer:**  
-* Using ``Get-Alias`` I found the shortened git command and me messing around trying to shorten the noun got me to the shorter noun. Tried to research how to find but could not come to a proper conclusion. Command ```Gcm -No Process```
+* Using ``Get-Alias`` I found the shortened git command and I found the other command by messing around trying to shorten the noun got me to the shorter noun. Tried to research how to find but could not come to a proper conclusion. Command ```Gcm -No Process```
 <img width="862" height="277" alt="image" src="https://github.com/user-attachments/assets/a3f0988d-0b4f-4a28-a4d4-d7d40346287e" />
 
 ---
