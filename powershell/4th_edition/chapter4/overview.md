@@ -1,5 +1,5 @@
 # General Overview
-* This chapter was pretty good I thought. I find it hard to read and i see myself going back to it to reference during the lab as its hard for me to learn by just reading it. But this Lab and the chapter are good skills to know as it is mostly about learning how to search and find awnsers. for yourself.
+* After yesterrdays lab this lab was way easier I could use the question to guide me to what the awnser is and read the documentation to find what specific command i needed to preform the task given. Overall I feel good about it and it feels satisfying doing these myself.
 # Lab 4
 
 ### 1. Display a list of running processes.
@@ -35,9 +35,9 @@
 **Answer:**  
 
 * Just tried typing in ```Get-Al``` then pressed tab and got ```Get-Alias``` which displayed all aliases.
-
----
 <img width="475" height="388" alt="image" src="https://github.com/user-attachments/assets/fd76a0f6-832c-4cdf-a3ff-6fe779e409f6" />
+---
+
 
 ### 5. Make a new alias, so you can run ntst to run netstat from aPowerShell prompt.
 **Answer:**  
