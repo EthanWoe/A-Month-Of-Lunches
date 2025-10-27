@@ -1,6 +1,6 @@
 # Overview
-* Today I felt pretty good about learning everything in powershell. It's a lot of looking at the documentation to understand how it works and sometimes a bit
-frustrating when looking over it for a while. Either way I like the challange as it helps me think and troubleshoot and it feels satisfying when I find the answer to my problem.
+**Today I felt pretty good about learning everything in powershell. It's a lot of looking at the documentation to understand how it works and sometimes a bit
+frustrating when looking over it for a while. Either way I like the challange as it helps me think and troubleshoot and it feels satisfying when I find the answer to my problem.**
 # Lab 6
 
 ### 1. Create two similar, but different, text files. Try comparing them by using Compare-Object. Run something like this: ```Compare-Object -Reference (Get-Content File1.txt) -Difference (Get-Content File2.txt)```. If the files have only one line of text that’s different, the command should work.
